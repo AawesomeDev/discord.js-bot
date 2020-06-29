@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
 
-let token = 'NzI0NjUwNjgwMTMxOTExNjgw.XvDRnw.PJd2EZwo160chfXNDjq_HqdzRR4'
+let token = 'NzI0NjUwNjgwMTMxOTExNjgw.XvDRnw.PJd2EZwo160chfXNDjq_HqdzRR4' //this is regenerated
 
 client.login(token)
 
